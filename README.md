@@ -1,1 +1,79 @@
-site error
+<!DOCTYPE html>
+<h1 style="
+    text-align: center;
+    font-size: 52px;
+    background: linear-gradient(to right, #e7ff2f, #dd2476, #04e204, #00c9ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: 'Segoe UI', sans-serif;
+    text-shadow: 2px 2px 8px rgba(0,0,0,0.5);
+    margin-top: 50px;
+    animation: fadeInUp 1.5s ease-out;
+">
+    Muhammad Jan Flour Shop
+</h1>
+
+<style>
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+</style>
+
+ </style>
+</head>
+<body>
+
+  <!-- Hero Wheat Background with Title -->
+  <div class="hero">
+    <footer style="
+    background-color: #2eb605;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    font-family: 'Noto Nastaliq Urdu', serif;
+    <h1>محمد جان فلور شاپ</h1>
+    <footer style="
+    background-color: #b64f05;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    font-family: 'Noto Nastaliq Urdu', serif;
+    <p>New Bannu Chungi, Hassa Kachi, Paind Khan, Dera Ismail Khan</p>
+    <footer style="
+    background-color: #b64f05;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    font-family: 'Noto Nastaliq Urdu', serif;
+    </div>
+
+  <!-- Scroll Down - Flour Section -->
+  <div class="section">
+    <h2>ہماری آٹے کی جھلکیاں</h2>
+    <div style="display: flex; justify-content: center; gap: 20px; padding: 20px;">
+      <img src="images1.jpg" alt="Jhalak 1" style="width: 30%; border-radius: 10px;">
+      <img src="images2.jpg" alt="Jhalak 2" style="width: 30%; border-radius: 10px;">
+      <img src="images3.jpg" alt="Jhalak 3" style="width: 30%; border-radius: 10px;">
+    </div>
+    <footer style="
+    background-color: #b64f05;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    font-family: 'Noto Nastaliq Urdu', serif;
+">
+    © 2025 محمد جان فلور شاپ - تمام حقوق محفوظ ہیں<br>
+    Contact: 0300 5963228
+</footer>
+
